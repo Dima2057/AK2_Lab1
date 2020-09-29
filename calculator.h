@@ -8,4 +8,5 @@ class Calculator
         int Mul (double, double);
 };
 
-#endif//CALCULATOR_H
+#endif
+// Here was Dima Tymochko
